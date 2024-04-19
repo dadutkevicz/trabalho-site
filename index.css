@@ -1,3 +1,12 @@
+header{ 
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
 body{
     background-color:peachpuff;
 font-style: italic;
